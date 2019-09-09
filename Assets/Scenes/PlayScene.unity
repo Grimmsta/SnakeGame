@@ -415,6 +415,7 @@ MonoBehaviour:
   isFirstInput: 0
   isMoving: 0
   moveRate: 0.1
+  isAStar: 1
   onStart:
     m_PersistentCalls:
       m_Calls:
